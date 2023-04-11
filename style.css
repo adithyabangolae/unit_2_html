@@ -1,0 +1,134 @@
+.heading {
+
+    position: absolute;
+    top: 110px;
+    left: 450px;
+    font-family: 'Calibri';
+    color: white;
+    font-size: 25px;
+
+   
+}
+
+.include {
+
+  position: absolute;
+  top: 960px;
+  left: 790px;
+  font-family: 'Calibri';
+  font-size: 25px;
+  font-weight: bold;
+  color: #4472C4;
+
+}
+
+
+.rectangle {
+  height: 430px;
+  width: 2000px;
+  background-color: #4472C4;
+  position: absolute;
+  top: 125px;
+}
+
+.rectangle_divider {
+    height: 13px;
+    width: 2000px;
+    background-color: #58BDCE;
+    position: absolute;
+    top: 1400px;
+  }
+
+  .description {
+    position:absolute;
+    top: 570px;
+    left: 560px;
+    font-size: 20px;
+    font-family: 'Calibri';
+    width: 860px;
+    color: #754488;
+    font-weight: bold;
+    
+    
+  }
+
+  .description_2 {
+    position:absolute;
+    top: 770px;
+    left: 560px;
+    font-size: 20px;
+    font-family: 'Calibri';
+    width: 860px;
+    color: #754488;
+    font-weight: bold;
+
+  }
+
+  .bottle_text {
+    position:absolute;
+    top: 1285px;
+    left: 890px;
+    font-size: 25px;
+    font-family: 'Calibri';
+    color: #4472C4;
+    font-weight: bold;
+
+
+  }
+
+  .pencilBox_text {
+    position:absolute;
+    top: 1285px;
+    left: 600px;
+    font-size: 25px;
+    font-family: 'Calibri';
+    color: #4472C4;
+    font-weight: bold;
+
+
+  }
+
+  .chocolates_text {
+    position:absolute;
+    top: 1285px;
+    left: 1215px;
+    font-size: 25px;
+    font-family: 'Calibri';
+    color: #4472C4;
+    font-weight: bold;
+
+  }
+
+  .welcome_kit {
+    position: absolute;
+    top: 220px;
+    left: 1050px;
+    font-family: 'Calibri';
+    color: white;
+    font-size: 23px;
+    width: 400px;
+   
+
+
+  }
+
+  .contact {
+    position: absolute;
+    top: 1442px;
+    left: 660px;
+    font-family: 'Calibri';
+    color: #58BDCE;
+    font-size: 20px;
+    
+  
+  }
+
+  .link {
+    position: absolute;
+    top: 1520px;
+    left: 760px;
+    font-family: 'Calibri';
+    color: #58BDCE;
+    font-size: 22px;
+
+  }
